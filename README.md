@@ -6,7 +6,9 @@
 
 ## 👨‍💻 About Me
 
-I am an aspiring Data Scientist with a strong interest in data analysis and problem solving. Currently learning core data science concepts, programming, and databases to build a solid technical foundation. I am motivated to continuously improve my skills and grow into a data-driven professional.
+Passionate about Data Science and Python development, with hands-on experience in real-world projects.  
+Former Medical Operations Associate at LEVERnGEAR, working with U.S. healthcare credentialing and documentation.  
+Aspiring Data Scientist focused on analytics, cloud, and machine learning.
 
 ---
 
