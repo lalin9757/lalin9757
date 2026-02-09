@@ -20,7 +20,7 @@
       <p>🛠️ Currently, I'm sharpening my skills in <b>Statistical Analysis</b> and building a solid foundation for advanced <b>AI models</b>.</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalin9757&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=FFFFFF&langs_count=5" width="100%" />
+      <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=lalin9757&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=FFFFFF&langs_count=5" width="100%" />
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,mysql,dart&theme=dark" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,mysql,&theme=dark" /> |
 | **Web Dev** | <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /> |
 | **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) |
