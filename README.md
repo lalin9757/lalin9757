@@ -46,34 +46,22 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## 📂 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Statistics with Python](https://github.com/lalin9757/Statistics-with-Python)** | Comprehensive study and implementation of statistical concepts. | `Jupyter Notebook` `Python` |
-| **[Pizza DB BigData](https://github.com/lalin9757/Pizza-DB-BigData)** | Big Data project focusing on pizza industry database management. | `SQL` `Data Analysis` |
-| **[Sales Marketing Analytics](https://github.com/lalin9757/Sales-Marketing-Analytics-DB)** | Database project for sales and marketing insights. | `MySQL` `Analytics` |
-| **[Uni Events Management](https://github.com/lalin9757/Uni-Events-Managements)** | A Python-based system for managing university events. | `Python` `Management` |
-| **[Bongo Bank](https://github.com/lalin9757/bongo_bank)** | A banking application project. | `Dart` `Flutter` |
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
 ## 🚀 What I'm Working On
 
 <div align="center">
 
-| Focus Area | Description | Progress |
+| Course Module | Status | Progress |
 | :--- | :--- | :--- |
-| **Statistics with Python** | Mastering the mathematical backbone of Data Science | ![Progress](https://geps.dev/progress/85?dangerColor=A177F7&warningColor=A177F7&successColor=A177F7) |
-| **Machine Learning** | Implementing supervised and unsupervised algorithms | ![Progress](https://geps.dev/progress/50?dangerColor=A177F7&warningColor=A177F7&successColor=A177F7) |
-| **Data Analysis** | Exploratory Data Analysis on real-world datasets | ![Progress](https://geps.dev/progress/90?dangerColor=A177F7&warningColor=A177F7&successColor=A177F7) |
-| **Portfolio Projects** | Building end-to-end ML applications | ![Progress](https://geps.dev/progress/40?dangerColor=A177F7&warningColor=A177F7&successColor=A177F7) |
+| **SQL for Data Scientists** | Completed | ![Progress](https://geps.dev/progress/100?dangerColor=A177F7&warningColor=A177F7&successColor=A177F7) |
+| **Python Fundamentals** | Completed | ![Progress](https://geps.dev/progress/100?dangerColor=A177F7&warningColor=A177F7&successColor=A177F7) |
+| **Statistics with Python** | Learning | ![Progress](https://geps.dev/progress/50?dangerColor=A177F7&warningColor=A177F7&successColor=A177F7) |
+| **Data Analysis using NumPy** | Next | ![Progress](https://geps.dev/progress/0?dangerColor=A177F7&warningColor=A177F7&successColor=A177F7) |
+| **Machine Learning** | Next | ![Progress](https://geps.dev/progress/0?dangerColor=A177F7&warningColor=A177F7&successColor=A177F7) |
+| **Supervised Learning Regression** | Next | ![Progress](https://geps.dev/progress/0?dangerColor=A177F7&warningColor=A177F7&successColor=A177F7) |
+| **Unsupervised Learning (Clustering)** | Next | ![Progress](https://geps.dev/progress/0?dangerColor=A177F7&warningColor=A177F7&successColor=A177F7) |
+| **Ensemble Learning** | Next | ![Progress](https://geps.dev/progress/0?dangerColor=A177F7&warningColor=A177F7&successColor=A177F7) |
+| **Deep Learning** | Next | ![Progress](https://geps.dev/progress/0?dangerColor=A177F7&warningColor=A177F7&successColor=A177F7) |
+| **MLOps** | Next | ![Progress](https://geps.dev/progress/0?dangerColor=A177F7&warningColor=A177F7&successColor=A177F7) |
 
 </div>
 
