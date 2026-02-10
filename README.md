@@ -37,7 +37,7 @@
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,mysql,&theme=dark" /> |
 | **Web Dev** | <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark" /> |
 | **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) |
 
 </div>
