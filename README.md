@@ -15,15 +15,16 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <p>👋 <b>Hey there!</b> I'm a Computer Science & Engineering student based in <b>Dhaka, Bangladesh</b>, with a deep fascination for <b>Data Science</b> and <b>Machine Learning</b>.</p>
-      <p>🚀 My mission is to bridge the gap between raw data and actionable intelligence. I love the challenge of finding patterns in complexity and telling stories through data visualization.</p>
-      <p>🛠️ Currently, I'm sharpening my skills in <b>Statistical Analysis</b> and building a solid foundation for advanced <b>AI models</b>.</p>
+      <p><b>Data Science–focused CSE student</b> building the path from <b>data → insight → intelligent systems</b>.</p>
+      <p>Skilled in <b>Python</b>, <b>SQL</b>, and analytical problem-solving, currently diving deep into <b>statistics</b>, <b>Machine Learning</b>, and <b>AI engineering</b>.</p>
+      <p>Learning in public, building consistently, and aiming to create impactful <b>data-driven solutions</b>.</p>
     </td>
     <td width="40%" align="center">
       <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=lalin9757&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=FFFFFF&langs_count=5" width="100%" />
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
